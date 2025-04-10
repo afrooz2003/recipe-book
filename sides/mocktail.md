@@ -6,7 +6,7 @@
 - Mint
 - Sugar
 - Water
-- Ice
+- Ice (optional)
 - Pinch of Salt
 
 
